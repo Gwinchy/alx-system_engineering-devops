@@ -1,2 +1,2 @@
 #!/bin/bash
-eval mv betty tmp/my_first_directory
+eval mv betty /alx-system_engineering-devops/0x00-shell_basics/tmp/my_first_directory
