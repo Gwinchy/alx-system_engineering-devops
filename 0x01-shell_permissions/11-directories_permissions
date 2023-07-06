@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -RW ugo+X 
+chmod d755 
