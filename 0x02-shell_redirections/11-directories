@@ -1,2 +1,2 @@
 #!/bin/bash
-. -type d -not -name '.' | wc -l
+. -type d -not -name '.' | wc -al
